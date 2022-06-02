@@ -1,1 +1,1 @@
-execute as @p[nbt={Inventory:[{Slot:9b,tag:{gv_vision:1b}}]}] run function genshinvisions:checker_abilities
+execute as @a[nbt={Inventory:[{Slot:9b,tag:{gv_vision:1b}}]}] run function genshinvisions:checker_abilities
