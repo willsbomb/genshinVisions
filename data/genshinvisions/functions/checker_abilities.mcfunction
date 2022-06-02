@@ -1,0 +1,1 @@
+execute as @p[nbt={Inventory:[{Slot:9b,tag:{gv_altsprint:1b}}]}] run function genshinvisions:checker_altsprint_element

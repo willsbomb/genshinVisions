@@ -1,0 +1,1 @@
+tellraw @a {"text": "Genshin Vision Test loaded", "color": "#FFA408"}
